@@ -262,3 +262,7 @@ git push -u origin main
 > **Note on Render Free Tier**:
 > - Free services on Render spin down during periods of inactivity. The initial cold request may take 30–60 seconds to respond.
 > - Data in MongoDB Atlas persists across Render restarts and redeployments.
+
+
+DEPLOYMENT LINK: 
+https://assignment-9-pharmacy-management-api-5qct.onrender.com
